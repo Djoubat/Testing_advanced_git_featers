@@ -1,3 +1,5 @@
 this is a test to avoid a merge commit
 
 this the modif frome locale
+
+new  mification from locale to generate diamond shape
